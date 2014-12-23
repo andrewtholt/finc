@@ -16,8 +16,8 @@
 *.exe
 *.out
 *.app
-ficl
-ficls
+nicl
+finc/finc
 minficl
 main
 softcore/makesoftcore
