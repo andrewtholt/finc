@@ -1,0 +1,36 @@
+# Object files
+*.o
+*.ko
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+ficl
+ficls
+minficl
+main
+softcore/makesoftcore
+# Packages
+*.deb
+*.opk
+
+.c9revisions
+.settings
+*.c~
+.gdb_history
+*.swp
+.*-swp
+.c9
+html
+latex
