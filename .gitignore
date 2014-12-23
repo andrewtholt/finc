@@ -21,6 +21,25 @@ finc/finc
 minficl
 main
 softcore/makesoftcore
+anise/anise
+tools/chafn
+tools/colior
+tools/cvtdec
+tools/dirtree
+tools/dump
+tools/duop
+tools/ffc
+tools/frob
+tools/gflow
+tools/hls
+tools/pjoin
+tools/rdate
+tools/rname
+tools/scanet
+tools/tag311
+tools/talknet
+tools/wst
+
 # Packages
 *.deb
 *.opk
