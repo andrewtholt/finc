@@ -156,9 +156,7 @@ static  void  word_NET_ADDR (
     ficlCell  cell ;
     unsigned  long  ipAddress, length ;
 
-
-
-    FICL_STACK_CHECK (vm->dataStack, 2, 1) ;
+//    FICL_STACK_CHECK (vm->dataStack, 2, 1) ;
 
 /* Get the arguments from the stack. */
 
@@ -240,9 +238,7 @@ static  void  word_NET_HOST (
     ficlCell  cell ;
     unsigned  long  ipAddress ;
 
-
-
-    FICL_STACK_CHECK (vm->dataStack, 2, 2) ;
+//    FICL_STACK_CHECK (vm->dataStack, 2, 2) ;
 
 /* Get the arguments from the stack. */
 
